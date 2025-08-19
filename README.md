@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Akin</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate aspiring software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterakin&label=Profile%20views&color=0e75b6&style=flat" alt="peterakin" /> </p>
 
